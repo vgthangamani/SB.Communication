@@ -1,0 +1,6 @@
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\bin\Debug\SB.Communication.Models.dll
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\bin\Debug\SB.Communication.Models.pdb
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\obj\Debug\SB.Communication.Models.csprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\obj\Debug\SB.Communication.Models.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\obj\Debug\SB.Communication.Models.dll
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Models\obj\Debug\SB.Communication.Models.pdb

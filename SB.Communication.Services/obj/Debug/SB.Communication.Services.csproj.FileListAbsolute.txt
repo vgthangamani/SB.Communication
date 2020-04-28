@@ -1,0 +1,9 @@
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\bin\Debug\SB.Communication.Services.dll
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\bin\Debug\SB.Communication.Services.pdb
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\obj\Debug\SB.Communication.Services.csprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\obj\Debug\SB.Communication.Services.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\obj\Debug\SB.Communication.Services.dll
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\obj\Debug\SB.Communication.Services.pdb
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\bin\Debug\SB.Communication.Models.dll
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\bin\Debug\SB.Communication.Models.pdb
+C:\Users\NITRO\source\repos\SB.Communication.Portal\SB.Communication.Services\obj\Debug\SB.Communication.Services.csproj.CopyComplete
