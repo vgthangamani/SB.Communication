@@ -8,9 +8,9 @@ namespace SB.Communication.Web.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Dashboard()
         {
-            return View();
+            return View(); 
         }
 
         public ActionResult About()
