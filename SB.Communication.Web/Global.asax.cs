@@ -16,6 +16,7 @@ namespace SB.Communication.Web
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            ControllerBuilder.Current.DefaultNamespaces.Add("SB.Communication.Controllers.Controllers");
         }
     }
 }
